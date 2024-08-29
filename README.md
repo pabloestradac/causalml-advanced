@@ -4,7 +4,7 @@ This repository contains a series of Jupyter Notebooks that are based on the lab
 
 The notebooks are organized as follows:
 
-1. [**Identification**](notebooks/Identification.ipynb): IN PROGRESS
+1. [**Selection Bias**](notebooks/Bias.ipynb): This notebook shows how selection bias arise from observational data.
 2. [**CUPED**](notebooks/CUPED.ipynb): IN PROGRESS
 3. [**Multiple Randomized Designs**](notebooks/MRD.ipynb): IN PROGRESS
 4. [**Power Analysis**](notebooks/Power.ipynb): IN PROGRESS
