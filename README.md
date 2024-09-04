@@ -5,7 +5,7 @@ This repository contains a series of Jupyter Notebooks that are based on the lab
 The notebooks are organized as follows:
 
 1. [**Selection Bias**](notebooks/Bias.ipynb): This notebook shows how selection bias arise from observational data.
-2. [**CUPED**](notebooks/CUPED.ipynb): IN PROGRESS
+2. [**CUPED**](notebooks/CUPED.ipynb): This notebook shows how to use regression adjustment with heterogeneous treatment effects.
 3. [**Multiple Randomized Designs**](notebooks/MRD.ipynb): This notebook compares the treatment effects of simple and multiple randomized designs.
 4. [**Power Analysis**](notebooks/Power.ipynb): IN PROGRESS
 5. [**Instrumental Variables**](notebooks/IV.ipynb): IN PROGRESS
