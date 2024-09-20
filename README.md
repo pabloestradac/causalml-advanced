@@ -1,6 +1,6 @@
 # causalml-advanced
  
-This repository contains a collection of Jupyter notebooks focused on causal inference for both experimental and observational data. Each notebook provides applied examples using simulated data.
+This repository contains a collection of Jupyter notebooks focused on causal inference for both experimental and observational data. Each notebook provides examples using simulated data.
 
 The notebooks are organized as follows:
 
