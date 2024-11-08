@@ -10,7 +10,7 @@ The notebooks are organized as follows:
 4. [**Power Analysis**](notebooks/Power.ipynb): This notebook shows how to conduct power analysis for randomized experiments.
 5. [**Instrumental Variables**](notebooks/IV.ipynb): This notebook shows how to use instrumental variables to estimate causal effects and the case of weak instruments.
 6. [**Regression Discontinuity Design**](notebooks/RDD.ipynb): This notebooks is based on Chapter 17 of the book Causal ML. It shows RDD with a sharp design with and without covariates.
-7. [**Difference-in-Differences**](notebooks/DID.ipynb): IN PROGRESS
-8. [**Event Study**](notebooks/Event_Study.ipynb): IN PROGRESS
-9. [**Matching**](notebooks/Matching.ipynb): IN PROGRESS
-10. [**Synthetic Control**](notebooks/SC.ipynb): IN PROGRESS
+7. [**Difference-in-Differences**](notebooks/DID.ipynb): This notebook shows how to use two-way fixed effects estimator in the traditional 2x2 setting and the problems with staggered adoption.
+8. [**Modern DiD Approaches**](notebooks/DID_Modern.ipynb): This notebook uses Callaway and Sant'Anna (2020) to show how to estimate ATT with staggered adoption.
+9. [**Synthetic Control**](notebooks/SC.ipynb): IN PROGRESS
+10. [**Matching**](notebooks/Matching.ipynb): IN PROGRESS
