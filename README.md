@@ -12,5 +12,5 @@ The notebooks are organized as follows:
 6. [**Regression Discontinuity Design**](notebooks/RDD.ipynb): This notebooks is based on Chapter 17 of the book Causal ML. It shows RDD with a sharp design with and without covariates.
 7. [**Difference-in-Differences**](notebooks/DID.ipynb): This notebook shows how to use two-way fixed effects estimator in the traditional 2x2 setting and the problems with staggered adoption.
 8. [**Modern DiD Approaches**](notebooks/DID_Modern.ipynb): This notebook uses Callaway and Sant'Anna (2020) to show how to estimate ATT with staggered adoption.
-9. [**Synthetic Control**](notebooks/SC.ipynb): IN PROGRESS
+9. [**Synthetic Control**](notebooks/SC.ipynb): Estimation of treatment effects using synthetic control methods.
 10. [**Matching**](notebooks/Matching.ipynb): IN PROGRESS
